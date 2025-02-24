@@ -42,3 +42,5 @@ Follow these rules when you write code:
 - Ensure to read all the files inside the ProjectDocs folder to understand the application before you make any changes to the code.
 - Everytime we have a bug, update the @context.md file with the latest information about it.
 - Everytime we fix a bug, update the @context.md file with the latest information about it to ensure we do not repeat the same bug.
+- If you need to install ShadCN use this command 'npx shadcn@latest init'
+- If you need to install a ShadCN component use this command 'npx shadcn@latest add [component]'
